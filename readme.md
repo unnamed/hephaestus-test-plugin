@@ -9,5 +9,5 @@ Clone and build this project using the following commands
 ```shell
 git clone https://github.com/unnamed/hephaestus-test-plugin/
 cd hephaestus-test-plugin
-./gradlew shadowJar
+./gradlew reobfJar
 ```
